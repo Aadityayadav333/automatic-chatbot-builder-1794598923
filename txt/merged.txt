@@ -1,0 +1,1241 @@
+
+--- Webscraped Content ---
+
+--- Page: https://ephemeral-kataifi-dd53cd.netlify.app/ ---
+Aaditya Yadav — ML & AI Developer
+~/
+aaditya-yadav
+about
+projects
+exp
+contact
+🐈‍⬛ ML & AI Developer · Indore, India · CSE Graduate
+Aaditya
+Yadav
+_
+B.Tech CSE graduate building impactful AI/ML systems, computer vision apps, and data-driven solutions. Passionate about end-to-end products — from data → model → API → deployment. Also builds 2D games for fun.
+GitHub
+LinkedIn
+Email
+Aaditya Yadav
+@Aadityayadav333
+Computer Science & Engineering Graduate | ML & AI Developer | Deep Learning Enthusiast 🚀
+41
+repos
+2
+followers
+18
+stars
+8
+CGPA
+Aadityayadav333
+in/aaditya-yadav
+Indore, Madhya Pradesh, India
+Tech Stack
+9 skills
+🐍
+Python
+🧠
+Deep Learning
+⚙️
+Machine Learning
+👁️
+Computer Vision
+🤖
+AI Agents
+🔥
+PyTorch
+🌐
+JavaScript
+🟢
+TensorFlow
+🗄️
+SQL
+Featured Projects
+8 repos
+🏋️
+Python · RAG
+Fitness Tracker App
+A friendly fitness tracker to log daily calories, protein, sleep & exercises with interactive graphs. Includes an AI personal fitness coach built with RAG — trained on videos from Jeff Nippard, Shaket Gokhale, Jeet Salal & top research papers.
+RAG Chatbot
+AI Coach
+Data Viz
+Health AI
+🔗 Live Demo
+🚗
+Deep Learning
+Self Driving Car (No Libraries)
+Self-driving car simulator built from scratch using deep learning — no ML libraries. Neural network weights update in real time to find the best path. Selects the best car out of 300 proxy cars that avoids collisions. Save & restore weights between runs.
+Deep Learning
+Neural Network
+Simulation
+From Scratch
+🔗 Live Demo
+🌿
+Python
+Virtual Herbal Garden
+ML-based herb recommendation system using Random Forest. Suggests herbs based on user age & disease profile. Includes conversational AI chatbot for botanical guidance with RAG.
+Machine Learning
+Flask
+RAG
+Random Forest
+Featured
+🔗 Live Demo
+🥔
+Python
+Potato Leaf Blight Detection
+Deep learning CNN model to detect potato leaf health status. Helps farmers save crops with just a camera. Real-time disease classification for early intervention.
+CNN
+Deep Learning
+Agriculture AI
+👥 Team of 6
+🎮
+Python
+Gesture Driven Gaming
+Real-time computer vision games controlled by human gestures. Uses OpenCV for hand/body tracking to create interactive, touchless gaming experiences.
+OpenCV
+Computer Vision
+Object Detection
+👥 Team of 6
+🏠
+Streamlit
+Real Estate Chatbot
+AI-powered chatbot to explore real estate market data for any locality. Deployed on Streamlit, providing instant market insights conversationally.
+Chatbot
+Streamlit
+AI Agents
+🔗 Live Demo
+🫧
+JavaScript
+Bubble Game
+Interactive browser-based bubble popping game. Clean JavaScript implementation with smooth animations and engaging gameplay mechanics.
+Game Dev
+JavaScript
+HTML5
+🔗 Play Now
+📱
+HTML/CSS
+QR Scanner
+Browser-based QR code scanner built with pure web technologies. Lightweight and functional with a clean user interface.
+HTML5
+CSS3
+Web App
+🔗 View Code
+Experience
+2 roles
+Jan 2025 — Jun 2025
+Technical Intern
+Xalt Analytics · IT / Computers - Software
+Working on data preprocessing, analysis, and visualization. Collaborating with the team to enhance decision-making pipelines. Built AI-powered chatbots that align with automated workflows using AI Agent Frameworks.
+Python
+Machine Learning
+Deep Learning
+AI Agents
+EDA
+Apr 2024 — Sep 2024
+Web Developer
+TNGS.ES · IT / Computers - Software
+Collected and organized multimedia content (images, videos, audio, text) for a soccer education website. Created interactive quizzes to boost user engagement and retention.
+HTML5
+CSS3
+JavaScript
+GitHub
+CMS
+Certifications & Training
+6 credentials
+🔵
+Introduction to Artificial Intelligence
+IBM
+IBM Watson ·
+Cloud ·
+AI Tools
+🔴
+Foundations: Data, Data, Everywhere
+Google
+Data Cycle ·
+SQL ·
+Business Insights
+🟢
+AI/ML Powered Unmanned Aircraft System
+IIT Indore + MeitY (Govt. of India) · Aug 2024
+AI/ML ·
+Drones ·
+Robotics
+🟣
+Geo-data Sharing & Cyber Security
+ISRO + IIRS · Nov–Dec 2023
+Satellite Data ·
+Data Analysis ·
+Cyber Security
+🟡
+Web Development Trainee
+Revedor · Mar–Aug 2023
+Frontend ·
+GitHub ·
+Web Projects
+🔷
+Vision Craft — OpenCV Workshop
+PIEMR
+OpenCV ·
+Face Detection ·
+Object Filters
+🕹️ Game Collection
+6 games
+🧟
+Zombie Fly
+JavaScript · Browser
+🐦
+Bird Runner
+JavaScript · Browser
+🟦
+Tetris
+JavaScript · Browser
+🍃
+Naruto Fight
+Python/PyGame
+🫧
+Bubble Game
+JavaScript · Browser
+🥷
+Ninja Game
+Python/PyGame
+Get in Touch
+I'm open to internship opportunities, collaborations on ML/AI projects, or just a good conversation about technology. Feel free to reach out!
+✉️
+email
+aady10748@gmail.com
+📱
+phone
++91 9755590018
+⚡
+github
+Aadityayadav333
+💼
+linkedin
+in/aaditya-yadav
+📍
+location
+Indore, Madhya Pradesh, India
+"Code to know oneself and others better"
+@Aadityayadav333
+· Philosophy
+// available for
+ML/AI Projects
+Freelance
+Research
+Open Source
+// hobbies
+🎵 Listening to Music  ·  ✍️ Writing Poems & Stories  ·  🎮 Building 2D Games  ·  🤖 Exploring AI
+Aaditya Yadav
+· Built with HTML, CSS & JS · Indore, India ·
+2025
+
+--- Page: https://ephemeral-kataifi-dd53cd.netlify.app/#about ---
+Aaditya Yadav — ML & AI Developer
+~/
+aaditya-yadav
+about
+projects
+exp
+contact
+🐈‍⬛ ML & AI Developer · Indore, India · CSE Graduate
+Aaditya
+Yadav
+_
+B.Tech CSE graduate building impactful AI/ML systems, computer vision apps, and data-driven solutions. Passionate about end-to-end products — from data → model → API → deployment. Also builds 2D games for fun.
+GitHub
+LinkedIn
+Email
+Aaditya Yadav
+@Aadityayadav333
+Computer Science & Engineering Graduate | ML & AI Developer | Deep Learning Enthusiast 🚀
+41
+repos
+2
+followers
+18
+stars
+8
+CGPA
+Aadityayadav333
+in/aaditya-yadav
+Indore, Madhya Pradesh, India
+Tech Stack
+9 skills
+🐍
+Python
+🧠
+Deep Learning
+⚙️
+Machine Learning
+👁️
+Computer Vision
+🤖
+AI Agents
+🔥
+PyTorch
+🌐
+JavaScript
+🟢
+TensorFlow
+🗄️
+SQL
+Featured Projects
+8 repos
+🏋️
+Python · RAG
+Fitness Tracker App
+A friendly fitness tracker to log daily calories, protein, sleep & exercises with interactive graphs. Includes an AI personal fitness coach built with RAG — trained on videos from Jeff Nippard, Shaket Gokhale, Jeet Salal & top research papers.
+RAG Chatbot
+AI Coach
+Data Viz
+Health AI
+🔗 Live Demo
+🚗
+Deep Learning
+Self Driving Car (No Libraries)
+Self-driving car simulator built from scratch using deep learning — no ML libraries. Neural network weights update in real time to find the best path. Selects the best car out of 300 proxy cars that avoids collisions. Save & restore weights between runs.
+Deep Learning
+Neural Network
+Simulation
+From Scratch
+🔗 Live Demo
+🌿
+Python
+Virtual Herbal Garden
+ML-based herb recommendation system using Random Forest. Suggests herbs based on user age & disease profile. Includes conversational AI chatbot for botanical guidance with RAG.
+Machine Learning
+Flask
+RAG
+Random Forest
+Featured
+🔗 Live Demo
+🥔
+Python
+Potato Leaf Blight Detection
+Deep learning CNN model to detect potato leaf health status. Helps farmers save crops with just a camera. Real-time disease classification for early intervention.
+CNN
+Deep Learning
+Agriculture AI
+👥 Team of 6
+🎮
+Python
+Gesture Driven Gaming
+Real-time computer vision games controlled by human gestures. Uses OpenCV for hand/body tracking to create interactive, touchless gaming experiences.
+OpenCV
+Computer Vision
+Object Detection
+👥 Team of 6
+🏠
+Streamlit
+Real Estate Chatbot
+AI-powered chatbot to explore real estate market data for any locality. Deployed on Streamlit, providing instant market insights conversationally.
+Chatbot
+Streamlit
+AI Agents
+🔗 Live Demo
+🫧
+JavaScript
+Bubble Game
+Interactive browser-based bubble popping game. Clean JavaScript implementation with smooth animations and engaging gameplay mechanics.
+Game Dev
+JavaScript
+HTML5
+🔗 Play Now
+📱
+HTML/CSS
+QR Scanner
+Browser-based QR code scanner built with pure web technologies. Lightweight and functional with a clean user interface.
+HTML5
+CSS3
+Web App
+🔗 View Code
+Experience
+2 roles
+Jan 2025 — Jun 2025
+Technical Intern
+Xalt Analytics · IT / Computers - Software
+Working on data preprocessing, analysis, and visualization. Collaborating with the team to enhance decision-making pipelines. Built AI-powered chatbots that align with automated workflows using AI Agent Frameworks.
+Python
+Machine Learning
+Deep Learning
+AI Agents
+EDA
+Apr 2024 — Sep 2024
+Web Developer
+TNGS.ES · IT / Computers - Software
+Collected and organized multimedia content (images, videos, audio, text) for a soccer education website. Created interactive quizzes to boost user engagement and retention.
+HTML5
+CSS3
+JavaScript
+GitHub
+CMS
+Certifications & Training
+6 credentials
+🔵
+Introduction to Artificial Intelligence
+IBM
+IBM Watson ·
+Cloud ·
+AI Tools
+🔴
+Foundations: Data, Data, Everywhere
+Google
+Data Cycle ·
+SQL ·
+Business Insights
+🟢
+AI/ML Powered Unmanned Aircraft System
+IIT Indore + MeitY (Govt. of India) · Aug 2024
+AI/ML ·
+Drones ·
+Robotics
+🟣
+Geo-data Sharing & Cyber Security
+ISRO + IIRS · Nov–Dec 2023
+Satellite Data ·
+Data Analysis ·
+Cyber Security
+🟡
+Web Development Trainee
+Revedor · Mar–Aug 2023
+Frontend ·
+GitHub ·
+Web Projects
+🔷
+Vision Craft — OpenCV Workshop
+PIEMR
+OpenCV ·
+Face Detection ·
+Object Filters
+🕹️ Game Collection
+6 games
+🧟
+Zombie Fly
+JavaScript · Browser
+🐦
+Bird Runner
+JavaScript · Browser
+🟦
+Tetris
+JavaScript · Browser
+🍃
+Naruto Fight
+Python/PyGame
+🫧
+Bubble Game
+JavaScript · Browser
+🥷
+Ninja Game
+Python/PyGame
+Get in Touch
+I'm open to internship opportunities, collaborations on ML/AI projects, or just a good conversation about technology. Feel free to reach out!
+✉️
+email
+aady10748@gmail.com
+📱
+phone
++91 9755590018
+⚡
+github
+Aadityayadav333
+💼
+linkedin
+in/aaditya-yadav
+📍
+location
+Indore, Madhya Pradesh, India
+"Code to know oneself and others better"
+@Aadityayadav333
+· Philosophy
+// available for
+ML/AI Projects
+Freelance
+Research
+Open Source
+// hobbies
+🎵 Listening to Music  ·  ✍️ Writing Poems & Stories  ·  🎮 Building 2D Games  ·  🤖 Exploring AI
+Aaditya Yadav
+· Built with HTML, CSS & JS · Indore, India ·
+2025
+
+--- Page: https://ephemeral-kataifi-dd53cd.netlify.app/#projects ---
+Aaditya Yadav — ML & AI Developer
+~/
+aaditya-yadav
+about
+projects
+exp
+contact
+🐈‍⬛ ML & AI Developer · Indore, India · CSE Graduate
+Aaditya
+Yadav
+_
+B.Tech CSE graduate building impactful AI/ML systems, computer vision apps, and data-driven solutions. Passionate about end-to-end products — from data → model → API → deployment. Also builds 2D games for fun.
+GitHub
+LinkedIn
+Email
+Aaditya Yadav
+@Aadityayadav333
+Computer Science & Engineering Graduate | ML & AI Developer | Deep Learning Enthusiast 🚀
+41
+repos
+2
+followers
+18
+stars
+8
+CGPA
+Aadityayadav333
+in/aaditya-yadav
+Indore, Madhya Pradesh, India
+Tech Stack
+9 skills
+🐍
+Python
+🧠
+Deep Learning
+⚙️
+Machine Learning
+👁️
+Computer Vision
+🤖
+AI Agents
+🔥
+PyTorch
+🌐
+JavaScript
+🟢
+TensorFlow
+🗄️
+SQL
+Featured Projects
+8 repos
+🏋️
+Python · RAG
+Fitness Tracker App
+A friendly fitness tracker to log daily calories, protein, sleep & exercises with interactive graphs. Includes an AI personal fitness coach built with RAG — trained on videos from Jeff Nippard, Shaket Gokhale, Jeet Salal & top research papers.
+RAG Chatbot
+AI Coach
+Data Viz
+Health AI
+🔗 Live Demo
+🚗
+Deep Learning
+Self Driving Car (No Libraries)
+Self-driving car simulator built from scratch using deep learning — no ML libraries. Neural network weights update in real time to find the best path. Selects the best car out of 300 proxy cars that avoids collisions. Save & restore weights between runs.
+Deep Learning
+Neural Network
+Simulation
+From Scratch
+🔗 Live Demo
+🌿
+Python
+Virtual Herbal Garden
+ML-based herb recommendation system using Random Forest. Suggests herbs based on user age & disease profile. Includes conversational AI chatbot for botanical guidance with RAG.
+Machine Learning
+Flask
+RAG
+Random Forest
+Featured
+🔗 Live Demo
+🥔
+Python
+Potato Leaf Blight Detection
+Deep learning CNN model to detect potato leaf health status. Helps farmers save crops with just a camera. Real-time disease classification for early intervention.
+CNN
+Deep Learning
+Agriculture AI
+👥 Team of 6
+🎮
+Python
+Gesture Driven Gaming
+Real-time computer vision games controlled by human gestures. Uses OpenCV for hand/body tracking to create interactive, touchless gaming experiences.
+OpenCV
+Computer Vision
+Object Detection
+👥 Team of 6
+🏠
+Streamlit
+Real Estate Chatbot
+AI-powered chatbot to explore real estate market data for any locality. Deployed on Streamlit, providing instant market insights conversationally.
+Chatbot
+Streamlit
+AI Agents
+🔗 Live Demo
+🫧
+JavaScript
+Bubble Game
+Interactive browser-based bubble popping game. Clean JavaScript implementation with smooth animations and engaging gameplay mechanics.
+Game Dev
+JavaScript
+HTML5
+🔗 Play Now
+📱
+HTML/CSS
+QR Scanner
+Browser-based QR code scanner built with pure web technologies. Lightweight and functional with a clean user interface.
+HTML5
+CSS3
+Web App
+🔗 View Code
+Experience
+2 roles
+Jan 2025 — Jun 2025
+Technical Intern
+Xalt Analytics · IT / Computers - Software
+Working on data preprocessing, analysis, and visualization. Collaborating with the team to enhance decision-making pipelines. Built AI-powered chatbots that align with automated workflows using AI Agent Frameworks.
+Python
+Machine Learning
+Deep Learning
+AI Agents
+EDA
+Apr 2024 — Sep 2024
+Web Developer
+TNGS.ES · IT / Computers - Software
+Collected and organized multimedia content (images, videos, audio, text) for a soccer education website. Created interactive quizzes to boost user engagement and retention.
+HTML5
+CSS3
+JavaScript
+GitHub
+CMS
+Certifications & Training
+6 credentials
+🔵
+Introduction to Artificial Intelligence
+IBM
+IBM Watson ·
+Cloud ·
+AI Tools
+🔴
+Foundations: Data, Data, Everywhere
+Google
+Data Cycle ·
+SQL ·
+Business Insights
+🟢
+AI/ML Powered Unmanned Aircraft System
+IIT Indore + MeitY (Govt. of India) · Aug 2024
+AI/ML ·
+Drones ·
+Robotics
+🟣
+Geo-data Sharing & Cyber Security
+ISRO + IIRS · Nov–Dec 2023
+Satellite Data ·
+Data Analysis ·
+Cyber Security
+🟡
+Web Development Trainee
+Revedor · Mar–Aug 2023
+Frontend ·
+GitHub ·
+Web Projects
+🔷
+Vision Craft — OpenCV Workshop
+PIEMR
+OpenCV ·
+Face Detection ·
+Object Filters
+🕹️ Game Collection
+6 games
+🧟
+Zombie Fly
+JavaScript · Browser
+🐦
+Bird Runner
+JavaScript · Browser
+🟦
+Tetris
+JavaScript · Browser
+🍃
+Naruto Fight
+Python/PyGame
+🫧
+Bubble Game
+JavaScript · Browser
+🥷
+Ninja Game
+Python/PyGame
+Get in Touch
+I'm open to internship opportunities, collaborations on ML/AI projects, or just a good conversation about technology. Feel free to reach out!
+✉️
+email
+aady10748@gmail.com
+📱
+phone
++91 9755590018
+⚡
+github
+Aadityayadav333
+💼
+linkedin
+in/aaditya-yadav
+📍
+location
+Indore, Madhya Pradesh, India
+"Code to know oneself and others better"
+@Aadityayadav333
+· Philosophy
+// available for
+ML/AI Projects
+Freelance
+Research
+Open Source
+// hobbies
+🎵 Listening to Music  ·  ✍️ Writing Poems & Stories  ·  🎮 Building 2D Games  ·  🤖 Exploring AI
+Aaditya Yadav
+· Built with HTML, CSS & JS · Indore, India ·
+2025
+
+--- Page: https://ephemeral-kataifi-dd53cd.netlify.app/#experience ---
+Aaditya Yadav — ML & AI Developer
+~/
+aaditya-yadav
+about
+projects
+exp
+contact
+🐈‍⬛ ML & AI Developer · Indore, India · CSE Graduate
+Aaditya
+Yadav
+_
+B.Tech CSE graduate building impactful AI/ML systems, computer vision apps, and data-driven solutions. Passionate about end-to-end products — from data → model → API → deployment. Also builds 2D games for fun.
+GitHub
+LinkedIn
+Email
+Aaditya Yadav
+@Aadityayadav333
+Computer Science & Engineering Graduate | ML & AI Developer | Deep Learning Enthusiast 🚀
+41
+repos
+2
+followers
+18
+stars
+8
+CGPA
+Aadityayadav333
+in/aaditya-yadav
+Indore, Madhya Pradesh, India
+Tech Stack
+9 skills
+🐍
+Python
+🧠
+Deep Learning
+⚙️
+Machine Learning
+👁️
+Computer Vision
+🤖
+AI Agents
+🔥
+PyTorch
+🌐
+JavaScript
+🟢
+TensorFlow
+🗄️
+SQL
+Featured Projects
+8 repos
+🏋️
+Python · RAG
+Fitness Tracker App
+A friendly fitness tracker to log daily calories, protein, sleep & exercises with interactive graphs. Includes an AI personal fitness coach built with RAG — trained on videos from Jeff Nippard, Shaket Gokhale, Jeet Salal & top research papers.
+RAG Chatbot
+AI Coach
+Data Viz
+Health AI
+🔗 Live Demo
+🚗
+Deep Learning
+Self Driving Car (No Libraries)
+Self-driving car simulator built from scratch using deep learning — no ML libraries. Neural network weights update in real time to find the best path. Selects the best car out of 300 proxy cars that avoids collisions. Save & restore weights between runs.
+Deep Learning
+Neural Network
+Simulation
+From Scratch
+🔗 Live Demo
+🌿
+Python
+Virtual Herbal Garden
+ML-based herb recommendation system using Random Forest. Suggests herbs based on user age & disease profile. Includes conversational AI chatbot for botanical guidance with RAG.
+Machine Learning
+Flask
+RAG
+Random Forest
+Featured
+🔗 Live Demo
+🥔
+Python
+Potato Leaf Blight Detection
+Deep learning CNN model to detect potato leaf health status. Helps farmers save crops with just a camera. Real-time disease classification for early intervention.
+CNN
+Deep Learning
+Agriculture AI
+👥 Team of 6
+🎮
+Python
+Gesture Driven Gaming
+Real-time computer vision games controlled by human gestures. Uses OpenCV for hand/body tracking to create interactive, touchless gaming experiences.
+OpenCV
+Computer Vision
+Object Detection
+👥 Team of 6
+🏠
+Streamlit
+Real Estate Chatbot
+AI-powered chatbot to explore real estate market data for any locality. Deployed on Streamlit, providing instant market insights conversationally.
+Chatbot
+Streamlit
+AI Agents
+🔗 Live Demo
+🫧
+JavaScript
+Bubble Game
+Interactive browser-based bubble popping game. Clean JavaScript implementation with smooth animations and engaging gameplay mechanics.
+Game Dev
+JavaScript
+HTML5
+🔗 Play Now
+📱
+HTML/CSS
+QR Scanner
+Browser-based QR code scanner built with pure web technologies. Lightweight and functional with a clean user interface.
+HTML5
+CSS3
+Web App
+🔗 View Code
+Experience
+2 roles
+Jan 2025 — Jun 2025
+Technical Intern
+Xalt Analytics · IT / Computers - Software
+Working on data preprocessing, analysis, and visualization. Collaborating with the team to enhance decision-making pipelines. Built AI-powered chatbots that align with automated workflows using AI Agent Frameworks.
+Python
+Machine Learning
+Deep Learning
+AI Agents
+EDA
+Apr 2024 — Sep 2024
+Web Developer
+TNGS.ES · IT / Computers - Software
+Collected and organized multimedia content (images, videos, audio, text) for a soccer education website. Created interactive quizzes to boost user engagement and retention.
+HTML5
+CSS3
+JavaScript
+GitHub
+CMS
+Certifications & Training
+6 credentials
+🔵
+Introduction to Artificial Intelligence
+IBM
+IBM Watson ·
+Cloud ·
+AI Tools
+🔴
+Foundations: Data, Data, Everywhere
+Google
+Data Cycle ·
+SQL ·
+Business Insights
+🟢
+AI/ML Powered Unmanned Aircraft System
+IIT Indore + MeitY (Govt. of India) · Aug 2024
+AI/ML ·
+Drones ·
+Robotics
+🟣
+Geo-data Sharing & Cyber Security
+ISRO + IIRS · Nov–Dec 2023
+Satellite Data ·
+Data Analysis ·
+Cyber Security
+🟡
+Web Development Trainee
+Revedor · Mar–Aug 2023
+Frontend ·
+GitHub ·
+Web Projects
+🔷
+Vision Craft — OpenCV Workshop
+PIEMR
+OpenCV ·
+Face Detection ·
+Object Filters
+🕹️ Game Collection
+6 games
+🧟
+Zombie Fly
+JavaScript · Browser
+🐦
+Bird Runner
+JavaScript · Browser
+🟦
+Tetris
+JavaScript · Browser
+🍃
+Naruto Fight
+Python/PyGame
+🫧
+Bubble Game
+JavaScript · Browser
+🥷
+Ninja Game
+Python/PyGame
+Get in Touch
+I'm open to internship opportunities, collaborations on ML/AI projects, or just a good conversation about technology. Feel free to reach out!
+✉️
+email
+aady10748@gmail.com
+📱
+phone
++91 9755590018
+⚡
+github
+Aadityayadav333
+💼
+linkedin
+in/aaditya-yadav
+📍
+location
+Indore, Madhya Pradesh, India
+"Code to know oneself and others better"
+@Aadityayadav333
+· Philosophy
+// available for
+ML/AI Projects
+Freelance
+Research
+Open Source
+// hobbies
+🎵 Listening to Music  ·  ✍️ Writing Poems & Stories  ·  🎮 Building 2D Games  ·  🤖 Exploring AI
+Aaditya Yadav
+· Built with HTML, CSS & JS · Indore, India ·
+2025
+
+--- Page: https://ephemeral-kataifi-dd53cd.netlify.app/#contact ---
+Aaditya Yadav — ML & AI Developer
+~/
+aaditya-yadav
+about
+projects
+exp
+contact
+🐈‍⬛ ML & AI Developer · Indore, India · CSE Graduate
+Aaditya
+Yadav
+_
+B.Tech CSE graduate building impactful AI/ML systems, computer vision apps, and data-driven solutions. Passionate about end-to-end products — from data → model → API → deployment. Also builds 2D games for fun.
+GitHub
+LinkedIn
+Email
+Aaditya Yadav
+@Aadityayadav333
+Computer Science & Engineering Graduate | ML & AI Developer | Deep Learning Enthusiast 🚀
+41
+repos
+2
+followers
+18
+stars
+8
+CGPA
+Aadityayadav333
+in/aaditya-yadav
+Indore, Madhya Pradesh, India
+Tech Stack
+9 skills
+🐍
+Python
+🧠
+Deep Learning
+⚙️
+Machine Learning
+👁️
+Computer Vision
+🤖
+AI Agents
+🔥
+PyTorch
+🌐
+JavaScript
+🟢
+TensorFlow
+🗄️
+SQL
+Featured Projects
+8 repos
+🏋️
+Python · RAG
+Fitness Tracker App
+A friendly fitness tracker to log daily calories, protein, sleep & exercises with interactive graphs. Includes an AI personal fitness coach built with RAG — trained on videos from Jeff Nippard, Shaket Gokhale, Jeet Salal & top research papers.
+RAG Chatbot
+AI Coach
+Data Viz
+Health AI
+🔗 Live Demo
+🚗
+Deep Learning
+Self Driving Car (No Libraries)
+Self-driving car simulator built from scratch using deep learning — no ML libraries. Neural network weights update in real time to find the best path. Selects the best car out of 300 proxy cars that avoids collisions. Save & restore weights between runs.
+Deep Learning
+Neural Network
+Simulation
+From Scratch
+🔗 Live Demo
+🌿
+Python
+Virtual Herbal Garden
+ML-based herb recommendation system using Random Forest. Suggests herbs based on user age & disease profile. Includes conversational AI chatbot for botanical guidance with RAG.
+Machine Learning
+Flask
+RAG
+Random Forest
+Featured
+🔗 Live Demo
+🥔
+Python
+Potato Leaf Blight Detection
+Deep learning CNN model to detect potato leaf health status. Helps farmers save crops with just a camera. Real-time disease classification for early intervention.
+CNN
+Deep Learning
+Agriculture AI
+👥 Team of 6
+🎮
+Python
+Gesture Driven Gaming
+Real-time computer vision games controlled by human gestures. Uses OpenCV for hand/body tracking to create interactive, touchless gaming experiences.
+OpenCV
+Computer Vision
+Object Detection
+👥 Team of 6
+🏠
+Streamlit
+Real Estate Chatbot
+AI-powered chatbot to explore real estate market data for any locality. Deployed on Streamlit, providing instant market insights conversationally.
+Chatbot
+Streamlit
+AI Agents
+🔗 Live Demo
+🫧
+JavaScript
+Bubble Game
+Interactive browser-based bubble popping game. Clean JavaScript implementation with smooth animations and engaging gameplay mechanics.
+Game Dev
+JavaScript
+HTML5
+🔗 Play Now
+📱
+HTML/CSS
+QR Scanner
+Browser-based QR code scanner built with pure web technologies. Lightweight and functional with a clean user interface.
+HTML5
+CSS3
+Web App
+🔗 View Code
+Experience
+2 roles
+Jan 2025 — Jun 2025
+Technical Intern
+Xalt Analytics · IT / Computers - Software
+Working on data preprocessing, analysis, and visualization. Collaborating with the team to enhance decision-making pipelines. Built AI-powered chatbots that align with automated workflows using AI Agent Frameworks.
+Python
+Machine Learning
+Deep Learning
+AI Agents
+EDA
+Apr 2024 — Sep 2024
+Web Developer
+TNGS.ES · IT / Computers - Software
+Collected and organized multimedia content (images, videos, audio, text) for a soccer education website. Created interactive quizzes to boost user engagement and retention.
+HTML5
+CSS3
+JavaScript
+GitHub
+CMS
+Certifications & Training
+6 credentials
+🔵
+Introduction to Artificial Intelligence
+IBM
+IBM Watson ·
+Cloud ·
+AI Tools
+🔴
+Foundations: Data, Data, Everywhere
+Google
+Data Cycle ·
+SQL ·
+Business Insights
+🟢
+AI/ML Powered Unmanned Aircraft System
+IIT Indore + MeitY (Govt. of India) · Aug 2024
+AI/ML ·
+Drones ·
+Robotics
+🟣
+Geo-data Sharing & Cyber Security
+ISRO + IIRS · Nov–Dec 2023
+Satellite Data ·
+Data Analysis ·
+Cyber Security
+🟡
+Web Development Trainee
+Revedor · Mar–Aug 2023
+Frontend ·
+GitHub ·
+Web Projects
+🔷
+Vision Craft — OpenCV Workshop
+PIEMR
+OpenCV ·
+Face Detection ·
+Object Filters
+🕹️ Game Collection
+6 games
+🧟
+Zombie Fly
+JavaScript · Browser
+🐦
+Bird Runner
+JavaScript · Browser
+🟦
+Tetris
+JavaScript · Browser
+🍃
+Naruto Fight
+Python/PyGame
+🫧
+Bubble Game
+JavaScript · Browser
+🥷
+Ninja Game
+Python/PyGame
+Get in Touch
+I'm open to internship opportunities, collaborations on ML/AI projects, or just a good conversation about technology. Feel free to reach out!
+✉️
+email
+aady10748@gmail.com
+📱
+phone
++91 9755590018
+⚡
+github
+Aadityayadav333
+💼
+linkedin
+in/aaditya-yadav
+📍
+location
+Indore, Madhya Pradesh, India
+"Code to know oneself and others better"
+@Aadityayadav333
+· Philosophy
+// available for
+ML/AI Projects
+Freelance
+Research
+Open Source
+// hobbies
+🎵 Listening to Music  ·  ✍️ Writing Poems & Stories  ·  🎮 Building 2D Games  ·  🤖 Exploring AI
+Aaditya Yadav
+· Built with HTML, CSS & JS · Indore, India ·
+2025
+
+--- Page: https://helpful-mermaid-2cc542.netlify.app/ ---
+FitTrack PWA
+Log
+Stats
+Settings
+📥 Install App
+Daily Goals
+Normal(under 30min)
+Mild(45min)
+Moderate(1hr)
+Extreme(1hr+)
+Log Daily Activity
+Date
+Calories
+Protein (g)
+Sleep (hrs)
+Exercise
+Normal (20-30m)
+Mild (45m)
+Moderate (1hr)
+Extreme (1hr+)
+Save Entry
+Recent Entries
+Date
+Calories
+Protein
+Sleep
+Exercise
+×
+💬
+
+--- Page: https://incomparable-kitsune-ac02a7.netlify.app/ ---
+Self Driving Car
+💾 Save
+🗑️ Discard
+🧠 Network
+Gen: 1
+Alive: 0
+Best: 0
+Neural Network
+
+--- Page: https://bubblegameop.netlify.app/ ---
+Bubble Game
+Hit
+5
+Timer
+60
+Score
+7
+Enjoy Game with  Music
+
+--- Page: https://zombiefly.netlify.app/ ---
+Game
+
+--- Page: https://grand-frangipane-c2091a.netlify.app/ ---
+Mario Game
+Play Music
+Your browser does not support the audio element.
+←
+→
+JUMP
+ENTER
+
+--- Page: https://helpful-mermaid-2cc542.netlify.app/stats ---
+Statistics - FitTrack
+Log
+Stats
+Settings
+Performance Analytics
+All-Time Averages
+Log data to see your progress analytics.
+Average Performance vs. Goals
+×
+💬
+
+--- Page: https://helpful-mermaid-2cc542.netlify.app/settings ---
+Settings - FitTrack
+Log
+Stats
+Settings
+Data Management
+Backup your data by copying the raw storage code.
+📋 Copy All Data
+🗑️ Clear All Data
+×
+💬
+
+
+--- Uploaded File Content ---
+
+
+--- Extracted from: aaditya_yadav_resume_.pdf ---
+
